@@ -14,7 +14,7 @@ public class Ventajas {
     @Id
     private int id;
 
-    int alidados;
+    int aliados;
     int contactos;
     int generacion;
     int criados;

@@ -20,6 +20,5 @@ public class DatosPj {
     private String conducta;
     private String concepto;
     private final int generacion = 13;
-    private String clan;
     private String refugio;
 }
